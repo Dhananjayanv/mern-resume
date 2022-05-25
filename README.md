@@ -11,11 +11,11 @@
 
 My portfolio website showcases my skills and technology used. Built on a MERN stack with AWS and Serverless framework which utilizes NoSQL using MongoDB and DynamoDB to record the information submitted on the Contact Form, Express makes an API call and emails myself upon submission of a contact form, Serverless to call the API Gateway to AWS, React is the primary framework used for front-end development, built on Node to handle it all. The site follows the MVC design pattern (Model-View-Controller) which is an development architecture style commonly used in software companies.
 
-### Deployed Site @ https://denverdevjared.herokuapp.com/
+
 
 ---
 
-![Jared Seefrieds Portfolio](./client/src/images/front-page.jpg)
+![Dhananjayan Portfolio](./client/src/images/front-page.jpg)
 
 # Technologies Used
 
@@ -30,7 +30,7 @@ My portfolio website showcases my skills and technology used. Built on a MERN st
 
 # Installation Requirements
 
-1. Clone my portfolio in the command line by entering: git clone https://github.com/jaredseefried/my-portfolio.git
+1. Clone my portfolio in the command line by entering: git clone https://github.com/Dhananjayanv/mern-resume).git
 
 2. Install required libraries from entering in the command line: npm i
 
@@ -53,6 +53,6 @@ MIT
 
 # Have Questions?
 
-## [Github Profile: github.com/jaredseefried](https://github.com/jaredseefried "Title")
+## [Github Profile: github.com/Dhananjayanv](https://github.com/jaredseefried "Title")
 
-Please email me at jared.seefried@yahoo.com if you have additional questions.
+Please email me at dhananjayanv.al21@bitsathy.ac.in if you have additional questions.
